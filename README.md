@@ -1,1 +1,1 @@
-This repository, contains data of substituted phenylboronic acids (4a-4aa): .log/ .out files include bond dissociation energy and molecular orbital details; .chk/ .fchk files provide wavefunctions for generating electrostatic potential map.
+This repository, contains data of substituted phenylboronic acids (2a-2aa): .log/ .out files include bond dissociation energy and molecular orbital details; .chk/ .fchk files provide wavefunctions for generating electrostatic potential map.
